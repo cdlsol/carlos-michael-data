@@ -4,6 +4,7 @@
 - git status
 - git branch
 - git switch
-- git checkout -b <your-branch-name>
+- git checkout -b "your-branch-name"
 - git add 
-- git commit -m <your-comment>
+- git commit -m "your-comment"
+- git push origin "your-branch"
