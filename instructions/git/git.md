@@ -2,6 +2,7 @@
 # Git Commands:
 
 - git clone "repo-url"
+- git pull origin main
 - git status
 - git branch
 - git switch
