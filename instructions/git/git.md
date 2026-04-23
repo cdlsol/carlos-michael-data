@@ -27,3 +27,8 @@ footers other than BREAKING CHANGE: <description> may be provided and follow a c
 Additional types are not mandated by the Conventional Commits specification, and have no implicit effect in Semantic Versioning (unless they include a BREAKING CHANGE). A scope may be provided to a commit’s type, to provide additional contextual information and is contained within parenthesis, e.g., feat(parser): add ability to parse arrays.
 
 [More info here!](https://www.conventionalcommits.org/en/v1.0.0/)
+
+# Directory commnads (power shell)
+
+- cd "nombre directorio": cambio de directorio
+- ls : list all files
