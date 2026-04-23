@@ -1,6 +1,7 @@
 
 # Git Commands:
 
+- git clone "repo-url"
 - git status
 - git branch
 - git switch
